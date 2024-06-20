@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Wedesom/Wedesom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Wedesom 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+wedesomfeliciodasilva@gmail.com
+
+@wedesomsabino
+
+![](https://github.com/Wedesom/Wedesom/assets/173362671/92fd42cd-0894-405e-9bba-c21e193527e7)
